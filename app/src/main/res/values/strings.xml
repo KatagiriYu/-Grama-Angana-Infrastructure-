@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grama Angana</string>
+    <string name="hall_schedule">Hall Schedule</string>
+    <string name="maintenance_jar">Maintenance Jar</string>
+    <string name="todays_events">Today\'s Events</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_maintenance">Maintenance</string>
+    <string name="nav_events">Events</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="booked">Booked</string>
+    <string name="available">Available</string>
+    <string name="book_now">Book Now</string>
+    <string name="pledged_of">pledged of</string>
+    <string name="purpose">Purpose</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+</resources>

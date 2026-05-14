@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ ಅಂಗಳ</string>
+    <string name="hall_schedule">ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="maintenance_jar">ನಿರ್ವಹಣೆ</string>
+    <string name="todays_events">ಕಾರ್ಯಕ್ರಮಗಳು</string>
+    <string name="morning">ಬೆಳಿಗ್ಗೆ</string>
+    <string name="afternoon">ಮಧ್ಯಾಹ್ನ</string>
+    <string name="evening">ಸಂಜೆ</string>
+    <string name="booked">ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ</string>
+    <string name="available">ಲಭ್ಯವಿದೆ</string>
+    <string name="pledged_of">ಒಟ್ಟು ಗುರಿಯಲ್ಲಿ ಸಂಗ್ರಹವಾದದ್ದು</string>
+    <string name="book_now">ಈಗಲೇ ಕಾಯ್ದಿರಿಸಿ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+</resources>

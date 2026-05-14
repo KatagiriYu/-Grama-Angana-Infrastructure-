@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew build *)",
+      "Bash(./gradlew sync *)",
+      "Bash(where java *)",
+      "Bash(export JAVA_HOME=\"/c/Program Files/Java/jdk-17\")",
+      "Bash(java -version)",
+      "Bash(whereis java *)",
+      "Bash(find /usr -name java)",
+      "Bash(export PATH=\"$JAVA_HOME/bin:$PATH\")",
+      "Bash(./gradlew --no-daemon build)",
+      "Bash(export JAVA_HOME=\"/c/Java/jdk-17\")",
+      "Bash(curl -s https://gradle.org/release-checksums/)",
+      "Bash(curl *)",
+      "Bash(./gradlew :app:assembleDebug *)",
+      "Bash(./gradlew assembleDebug)",
+      "Bash(./gradlew installDebug)",
+      "Bash(adb shell *)",
+      "Bash(/c/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe shell *)",
+      "Bash(\"/c/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe\" logcat *)",
+      "Bash(\"/c/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe\" shell *)",
+      "Bash(./gradlew clean *)",
+      "Bash(zip -r \"C:\\\\Users\\\\AKSHAY\\\\Desktop\\\\GramaAngana_backup.zip\" .)",
+      "Bash(tar -czf \"C:/Users/AKSHAY/Desktop/GramaAngana_backup.tar.gz\" .)",
+      "Bash(adb devices *)",
+      "Bash(C:/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe devices *)",
+      "Bash(C:/Users/AKSHAY/AppData/Local/Android/Sdk/emulator/emulator.exe *)",
+      "Bash(nohup C:/Users/AKSHAY/AppData/Local/Android/Sdk/emulator/emulator.exe *)",
+      "Bash(adb install *)",
+      "Bash(C:/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe install *)",
+      "Bash(C:/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe shell *)",
+      "Bash(\"C:/Users/AKSHAY/AppData/Local/Android/Sdk/platform-tools/adb.exe\" shell *)",
+      "Bash(.\\\\gradlew.bat :app:assembleDebug *)",
+      "PowerShell(.\\\\gradlew.bat :app:assembleDebug 2>&1)",
+      "PowerShell(Get-ChildItem *)",
+      "Skill(update-config)",
+      "PowerShell(Set-Content *)",
+      "PowerShell($path = \"C:\\\\Users\\\\AKSHAY\\\\AndroidStudioProjects\\\\GramaAngana\\\\app\\\\src\\\\main\\\\java\\\\com\\\\example\\\\grama_angana\\\\repository\\\\FirebaseRepository.kt\"; $content = [System.IO.File]::ReadAllText\\($path\\); $content = $content.Replace\\('●', ''\\); [System.IO.File]::WriteAllText\\($path, $content\\); Write-Output \"Fixed\")",
+      "Bash(Get-ChildItem -Recurse -Name)",
+      "Bash(Select-Object -First 100)",
+      "Bash(dir *)"
+    ]
+  }
+}
+
