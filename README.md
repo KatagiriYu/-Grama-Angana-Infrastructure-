@@ -11,11 +11,20 @@ The app is built with **Jetpack Compose**, **Kotlin**, and uses **Firebase** for
 
 ## Screenshots
 
-- ![Hall Schedule](images/Hall_Schedule.png)
-- ![Maintenance Jar](images/Maintenance_Jar.png)
-- ![Today's Events](images/Today's_Event.png)
-- ![User Profile](images/User_Profile.png)
-- ![Login Page](images/Login_Page.png)
+![Hall Schedule Interface](images/Hall_Schedule.png)
+*Displays the hall booking interface with date selection and slot status*
+
+![Maintenance Request Form](images/Maintenance_Jar.png)
+*Shows the maintenance request submission form with item selection and priority options*
+
+![Today's Events Overview](images/Today's_Event.png)
+*Lists event details and booking availability for the current day*
+
+![User Profile Overview](images/User_Profile.png)
+*Shows user login status and profile management options*
+
+![Login Screen](images/Login_Page.png)
+*Displays authentication screen for email/password login*
 
 ## License
 MIT License – see `LICENSE` for details.
