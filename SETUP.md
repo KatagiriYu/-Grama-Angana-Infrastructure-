@@ -16,8 +16,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/grama-angana.git
-cd grama-angana
+git clone https://github.com/KatagiriYu/-Grama-Angana-Infrastructure-.git
+cd -Grama-Angana-Infrastructure-
 ```
 
 ### 2. Set Up Firebase
